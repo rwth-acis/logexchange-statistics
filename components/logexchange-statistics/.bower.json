@@ -1,0 +1,36 @@
+{
+  "name": "logexchange-statistics",
+  "authors": [
+    "István Koren",
+    "Andreas Guth"
+  ],
+  "description": "An element for analyzing statistics of an XMPP server.",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "logexchange-statistics.html",
+  "license": "https://raw.githubusercontent.com/rwth-acis/logexchange-statistics/master/LICENSE",
+  "homepage": "https://github.com/rwth-acis/logexchange-statistics/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "92ac4944c5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "92ac4944c51f0e22b088cd371732218a910b3e80"
+  },
+  "_source": "git://github.com/rwth-acis/logexchange-statistics.git",
+  "_target": "master",
+  "_originalSource": "rwth-acis/logexchange-statistics",
+  "_direct": true
+}

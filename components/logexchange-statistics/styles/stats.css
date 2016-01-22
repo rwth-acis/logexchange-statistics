@@ -1,0 +1,32 @@
+
+a {
+  color:inherit;
+  text-decoration: none;
+ }
+
+a.tooltip span{
+  display: none;
+}
+
+a.tooltip:hover span{
+  position: absolute;
+  display: block;
+  background: #333;
+  background: rgba(0, 0, 0, .8);
+  border-radius: 5px;
+  color: #fff;
+  right: 5%;
+  top: 5%;
+  left: 5%;
+  padding: 5px 15px;
+  z-index: 99;
+}
+
+#axis0 {
+  width: 40px;
+  float: left;
+}
+#axis1 {
+  width: 40px;
+  float: right;
+}
